@@ -93,11 +93,6 @@ void movimentacao(){
   
   cobra[0] = proximo;//colcando a cabeça da cobra a diante
   
-  if(tamanhoCobra%3==0){
-    lag = lag-200;
-    if(lag<100)
-      lag = 100;
-  }
   leds.fill(0,0,0);//falando para apagar todos pixels
   leds.show();//apagando todos pixels
   
@@ -176,6 +171,13 @@ void maca(){
           macaOK = true;//fim loop
       }
     }
+    
+    if(tamanhoCobra%3==0)//a cada pontuação multipla de 3
+  	{
+    	lag = lag-200;//aumenta a velocidade do jogo
+    	if(lag<100)
+     	 lag = 80;// velocidade mais rápida do jogo
+  	}
   }
   leds.setPixelColor(posicaoMaca, leds.Color(250, 0, 0));//colocando a cor vermelha da maça
   leds.show();//acendendo led da maça
