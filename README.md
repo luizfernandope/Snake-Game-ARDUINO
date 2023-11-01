@@ -14,6 +14,11 @@
  Tinkercad | Arduino | C
 -----|-----|----
 
+Inicio Projeto | Fim Projeto
+-|-
+24/10/2023 | 30/10/2023
+
+
 # Screenshots
 
 >![image](https://github.com/luizfernandope/Snake-Game-ARDUINO/assets/74561722/def8b7e0-2f91-4e6d-a687-bd1fc1631f3a)
