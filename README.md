@@ -7,7 +7,7 @@
 > Prof.ª JANE MARIA DOS SANTOS EBERSON (Algoritmos e Lógica de Programação)
 
 
-# [Jogue e simule o projeto aqui](https://www.tinkercad.com/things/hyu77o4bxZS?sharecode=uqQpXzAwfeA78uUUr-lCLAQy2km67BkepBK9EkrpN24)
+# [Jogue e simule o projeto aqui](https://www.tinkercad.com/things/79s2ABq1aad?sharecode=9Iqa7ErzkOgCtyfzYbsVR7w-WGdr1xk2MGa7_Wlx-BI)
 
 # Informações
  
